@@ -55,12 +55,12 @@ header {
 }
 
 .navbar a{
-    color: rgb(205, 55, 55);
+    color: rgb(252, 57, 3);
     font-size : 1.2em;
 }
 
 .navbar .logo {
-    color: rgb(205, 55, 55);
+    color: rgb(252, 57, 3);
     font-size: 2em;
     font-weight: bold;
     /* position: absolute;  */
